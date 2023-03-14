@@ -5,13 +5,13 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=gourabsingha1&label=Profile%20views&color=0e75b6&style=flat" alt="gourabsingha1" /> </p> -->
 
-- 💬 Ask me about **Kotlin, Android, DSA**
+- 💬 Ask me about - **Kotlin, Android, DSA**
 
 <!-- - 📫 Email: **gaurabsingha16@gmail.com** -->
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pNzIAAcGckcttY4ogKUiGtxpNoYbhik3/view?usp=sharing](https://drive.google.com/file/d/1pNzIAAcGckcttY4ogKUiGtxpNoYbhik3/view?usp=sharing)
+- 📄 Know about my experiences - [Resume](https://drive.google.com/file/d/1pNzIAAcGckcttY4ogKUiGtxpNoYbhik3/view?usp=sharing)
 
-- ⚡ Fun fact **I can spend my whole day doing a single thing**
+- ⚡ Fun fact - **I can spend my whole day doing a single thing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
