@@ -1,6 +1,8 @@
 <h1 align="center">Hello! This is Gourab Singha 🙋🏻‍♂️🕺🏻</h1>
 <h3 align="center">I'm a passionate Android Developer</h3>
 
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/110812339/224934400-ae1625b5-f3f1-434f-82a0-8814d4c3329e.gif">
+
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=gourabsingha1&label=Profile%20views&color=0e75b6&style=flat" alt="gourabsingha1" /> </p> -->
 
 - 💬 Ask me about **Kotlin, Android, DSA**
