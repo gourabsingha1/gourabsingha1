@@ -7,7 +7,7 @@
 
 💬 Ask me about - **Kotlin, Android, DSA**
 
-📄 Know about my experiences - [Resume](https://drive.google.com/file/d/1AQss-NTby13oprx08uVGFHP4EI1wCtyA/view?usp=drive_link)
+📄 Know about my experiences - [Resume](https://drive.google.com/file/d/1mettouMCZEF-HlS70tZbeg5YMx5FVFcP/view?usp=sharing)
 
 ⚡ Fun fact - **I can spend my whole day doing a single thing**
 
