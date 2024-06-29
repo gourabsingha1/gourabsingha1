@@ -12,8 +12,6 @@
 
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/gourab-singha-6a0690245/)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1cOhLryhdca0Tt-9iE1Ymzva6Hb24ggK-/view?usp=drive_link)
-
 - ⚡ Fun fact **I can spend my whole day doing a single thing**
 <br/>
 
