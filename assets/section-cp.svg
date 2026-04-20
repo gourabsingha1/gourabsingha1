@@ -23,12 +23,12 @@
   
   <!-- Subtle Grid -->
   <path d="M0 45 H960" stroke="#ffffff" stroke-width="1" opacity="0.05"/>
-  <path d="M380 0 V90" stroke="#ffffff" stroke-width="1" opacity="0.05"/>
+  <path d="M220 0 V90" stroke="#ffffff" stroke-width="1" opacity="0.05"/>
 
   <!-- Animated Line -->
-  <rect x="380" y="44" width="550" height="1" fill="url(#g)" opacity="0.6"/>
-  <circle cx="380" cy="44.5" r="3" fill="#f472b6" filter="url(#glow)"/>
+  <rect x="220" y="44" width="710" height="1" fill="url(#g)" opacity="0.6"/>
+  <circle cx="220" cy="44.5" r="3" fill="#f472b6" filter="url(#glow)"/>
 
   <text x="34" y="50" font-family="'Inter', 'SF Pro Display', sans-serif" font-size="13" font-weight="600" fill="#64748b" letter-spacing="0.2em">SECTION 03</text>
-  <text x="395" y="51" font-family="'Outfit', 'Inter', 'SF Pro Display', sans-serif" font-size="28" font-weight="700" fill="#f8fafc" letter-spacing="-0.02em">Competitive Programming</text>
+  <text x="240" y="51" font-family="'Outfit', 'Inter', 'SF Pro Display', sans-serif" font-size="28" font-weight="700" fill="#f8fafc" letter-spacing="-0.02em">Competitive Programming</text>
 </svg>
