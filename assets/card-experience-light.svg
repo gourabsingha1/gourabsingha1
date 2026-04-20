@@ -1,46 +1,46 @@
 <svg width="960" height="480" viewBox="0 0 960 480" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <style>
-      .title { font-family: 'Inter', -apple-system, sans-serif; font-size: 24px; font-weight: 700; fill: #ffffff; }
-      .company { font-family: 'Inter', -apple-system, sans-serif; font-size: 18px; font-weight: 600; fill: #ffffff; }
-      .role { font-family: 'Inter', -apple-system, sans-serif; font-size: 14px; font-weight: 400; fill: #64748b; }
-      .bullet { font-family: 'Inter', -apple-system, sans-serif; font-size: 14px; font-weight: 400; fill: #334155; }
-      .glow { filter: drop-shadow(0 0 8px rgba(0, 242, 254, 0.6)); }
+      .title { font-family: 'Inter', -apple-system, sans-serif; font-size: 24px; font-weight: 700; fill: #0f172a; }
+      .company { font-family: 'Inter', -apple-system, sans-serif; font-size: 18px; font-weight: 600; fill: #0f172a; }
+      .role { font-family: 'Inter', -apple-system, sans-serif; font-size: 14px; font-weight: 400; fill: #94a3b8; }
+      .bullet { font-family: 'Inter', -apple-system, sans-serif; font-size: 14px; font-weight: 400; fill: #475569; }
+      .glow { filter: drop-shadow(0 0 6px rgba(2, 132, 199, 0.4)); }
     </style>
     
     <!-- Background gradient -->
     <linearGradient id="bgGlow" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="0%" stop-color="#f8fafc" />
       <stop offset="100%" stop-color="#f1f5f9" />
     </linearGradient>
 
     <linearGradient id="lineGrad" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#334155" />
-      <stop offset="50%" stop-color="#06b6d4" />
-      <stop offset="100%" stop-color="#334155" />
+      <stop offset="0%" stop-color="#cbd5e1" />
+      <stop offset="50%" stop-color="#0284c7" />
+      <stop offset="100%" stop-color="#cbd5e1" />
     </linearGradient>
   </defs>
 
   <!-- Card Background -->
-  <rect width="958" height="478" x="1" y="1" fill="url(#bgGlow)" rx="12" stroke="rgba(0,0,0,0.06)" stroke-width="1" />
+  <rect width="958" height="478" x="1" y="1" fill="url(#bgGlow)" rx="12" stroke="rgba(0,0,0,0.08)" stroke-width="1" />
   
   <!-- Subtle top highlight line -->
-  <rect width="960" height="1" x="0" y="0" fill="url(#lineGrad)" opacity="0.3" />
+  <rect width="960" height="1" x="0" y="0" fill="url(#lineGrad)" opacity="0.2" />
 
   <!-- Section Title -->
   <g transform="translate(40, 40)">
     <!-- Animated pulsing dot next to title -->
-    <circle cx="6" cy="-6" r="4" fill="#06b6d4" class="glow">
-      <animate attributeName="opacity" values="0.4; 1; 0.4" dur="3s" repeatCount="indefinite" />
+    <circle cx="6" cy="-6" r="4" fill="#0284c7" class="glow">
+      <animate attributeName="opacity" values="0.3; 0.8; 0.3" dur="3s" repeatCount="indefinite" />
     </circle>
     <text x="24" y="0" class="title" letter-spacing="1">Experience</text>
   </g>
 
   <!-- Timeline Base Line -->
-  <line x1="60" y1="100" x2="60" y2="420" stroke="#1e293b" stroke-width="2" />
+  <line x1="60" y1="100" x2="60" y2="420" stroke="#e2e8f0" stroke-width="2" />
   
   <!-- Animated Timeline Pulse -->
-  <line x1="60" y1="100" x2="60" y2="150" stroke="#06b6d4" stroke-width="2" class="glow">
+  <line x1="60" y1="100" x2="60" y2="150" stroke="#0284c7" stroke-width="2" class="glow">
     <animate attributeName="y1" values="80; 420; 80" dur="4s" repeatCount="indefinite" />
     <animate attributeName="y2" values="130; 470; 130" dur="4s" repeatCount="indefinite" />
   </line>
@@ -48,8 +48,8 @@
   <!-- ================= VISA SECTION ================= -->
   <g transform="translate(60, 110)">
     <!-- Node -->
-    <circle cx="0" cy="0" r="6" fill="#0f172a" stroke="#06b6d4" stroke-width="2" class="glow" />
-    <circle cx="0" cy="0" r="2" fill="#06b6d4" />
+    <circle cx="0" cy="0" r="6" fill="#f8fafc" stroke="#0284c7" stroke-width="2" class="glow" />
+    <circle cx="0" cy="0" r="2" fill="#0284c7" />
 
     <!-- Header -->
     <text x="30" y="5" class="company">Visa</text>
@@ -57,16 +57,16 @@
 
     <!-- Bullets -->
     <g transform="translate(30, 35)">
-      <circle cx="0" cy="-4" r="2" fill="#475569" />
+      <circle cx="0" cy="-4" r="2" fill="#94a3b8" />
       <text x="12" y="0" class="bullet">Event-driven auth and settlement flows with Kafka and Spring Boot</text>
       
-      <circle cx="0" cy="26" r="2" fill="#475569" />
+      <circle cx="0" cy="26" r="2" fill="#94a3b8" />
       <text x="12" y="30" class="bullet">Circuit breakers, retries, DLQ strategy, and deduplication-safe processing</text>
       
-      <circle cx="0" cy="56" r="2" fill="#475569" />
+      <circle cx="0" cy="56" r="2" fill="#94a3b8" />
       <text x="12" y="60" class="bullet">Reconciliation tooling with React, Java, and MySQL for faster issue isolation</text>
       
-      <circle cx="0" cy="86" r="2" fill="#475569" />
+      <circle cx="0" cy="86" r="2" fill="#94a3b8" />
       <text x="12" y="90" class="bullet">Accessibility improvements aligned with WCAG in key product journeys</text>
     </g>
   </g>
@@ -74,8 +74,8 @@
   <!-- ================= CRED SECTION ================= -->
   <g transform="translate(60, 280)">
     <!-- Node -->
-    <circle cx="0" cy="0" r="6" fill="#0f172a" stroke="#2563eb" stroke-width="2" class="glow" />
-    <circle cx="0" cy="0" r="2" fill="#2563eb" />
+    <circle cx="0" cy="0" r="6" fill="#f8fafc" stroke="#38bdf8" stroke-width="2" class="glow" />
+    <circle cx="0" cy="0" r="2" fill="#38bdf8" />
 
     <!-- Header -->
     <text x="30" y="5" class="company">CRED</text>
@@ -83,16 +83,16 @@
 
     <!-- Bullets -->
     <g transform="translate(30, 35)">
-      <circle cx="0" cy="-4" r="2" fill="#475569" />
+      <circle cx="0" cy="-4" r="2" fill="#94a3b8" />
       <text x="12" y="0" class="bullet">Centralized metrics publishing library to reduce instrumentation effort</text>
       
-      <circle cx="0" cy="26" r="2" fill="#475569" />
+      <circle cx="0" cy="26" r="2" fill="#94a3b8" />
       <text x="12" y="30" class="bullet">Runtime validation &amp; DB constraints to reduce erroneous state transitions</text>
       
-      <circle cx="0" cy="56" r="2" fill="#475569" />
+      <circle cx="0" cy="56" r="2" fill="#94a3b8" />
       <text x="12" y="60" class="bullet">Automated financial correction pipelines for interest recalculation</text>
       
-      <circle cx="0" cy="86" r="2" fill="#475569" />
+      <circle cx="0" cy="86" r="2" fill="#94a3b8" />
       <text x="12" y="90" class="bullet">AML-compliant payment workflow updates across major payment rails</text>
     </g>
   </g>
