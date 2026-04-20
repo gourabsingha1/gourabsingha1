@@ -34,7 +34,7 @@
 <td align="center"><img src="https://cdn.simpleicons.org/apachekafka/white" width="48" height="48" alt="Kafka"/></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="48" height="48" alt="Docker"/></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" alt="Kubernetes"/></td>
-<td align="center"><img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" width="48" height="48" alt="AWS"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS"/></td>
 </tr>
 <tr>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" height="48" alt="React"/></td>
