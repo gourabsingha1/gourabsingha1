@@ -1,0 +1,29 @@
+<svg width="960" height="160" viewBox="0 0 960 160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .text { font-family: 'Inter', -apple-system, sans-serif; font-size: 16px; font-weight: 400; fill: #334155; line-height: 1.6; }
+      .highlight { fill: #00f2fe; font-weight: 600; }
+    </style>
+    
+    <linearGradient id="bgGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#1e293b" />
+    </linearGradient>
+  </defs>
+
+  <rect width="958" height="158" x="1" y="1" fill="url(#bgGlow)" rx="12" stroke="rgba(0,0,0,0.06)" stroke-width="1" />
+
+  <g transform="translate(40, 60)">
+    <text x="0" y="0" class="text">I engineer <tspan class="highlight">backend systems</tspan> that remain resilient under load and clear for teams.</text>
+    <text x="0" y="30" class="text">My focus lies in <tspan class="highlight">event pipelines</tspan>, <tspan class="highlight">reliability controls</tspan>, reconciliation tooling, and delivering precise frontend polish.</text>
+  </g>
+
+  <!-- Decorative floating glowing orbs -->
+  <circle cx="850" cy="80" r="40" fill="#4facfe" filter="blur(30px)" opacity="0.2">
+    <animate attributeName="opacity" values="0.1; 0.3; 0.1" dur="4s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="880" cy="100" r="20" fill="#00f2fe" filter="blur(20px)" opacity="0.3">
+    <animate attributeName="opacity" values="0.2; 0.5; 0.2" dur="3s" repeatCount="indefinite" />
+    <animate attributeName="cy" values="90; 110; 90" dur="5s" repeatCount="indefinite" />
+  </circle>
+</svg>
