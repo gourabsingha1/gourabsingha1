@@ -2,11 +2,11 @@
   <defs>
     <style>
       .text { font-family: 'Inter', -apple-system, sans-serif; font-size: 15px; font-weight: 400; fill: #334155; }
-      .highlight { fill: #00f2fe; font-weight: 600; }
+      .highlight { fill: #06b6d4; font-weight: 600; }
     </style>
     <linearGradient id="bgGlow" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0f172a" />
-      <stop offset="100%" stop-color="#1e293b" />
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="100%" stop-color="#f1f5f9" />
     </linearGradient>
   </defs>
 

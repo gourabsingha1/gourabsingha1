@@ -10,13 +10,13 @@
     
     <!-- Background gradient -->
     <linearGradient id="bgGlow" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0f172a" />
-      <stop offset="100%" stop-color="#1e293b" />
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="100%" stop-color="#f1f5f9" />
     </linearGradient>
 
     <linearGradient id="lineGrad" x1="0%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%" stop-color="#334155" />
-      <stop offset="50%" stop-color="#00f2fe" />
+      <stop offset="50%" stop-color="#06b6d4" />
       <stop offset="100%" stop-color="#334155" />
     </linearGradient>
   </defs>
@@ -30,7 +30,7 @@
   <!-- Section Title -->
   <g transform="translate(40, 40)">
     <!-- Animated pulsing dot next to title -->
-    <circle cx="6" cy="-6" r="4" fill="#00f2fe" class="glow">
+    <circle cx="6" cy="-6" r="4" fill="#06b6d4" class="glow">
       <animate attributeName="opacity" values="0.4; 1; 0.4" dur="3s" repeatCount="indefinite" />
     </circle>
     <text x="24" y="0" class="title" letter-spacing="1">Experience</text>
@@ -40,7 +40,7 @@
   <line x1="60" y1="100" x2="60" y2="420" stroke="#1e293b" stroke-width="2" />
   
   <!-- Animated Timeline Pulse -->
-  <line x1="60" y1="100" x2="60" y2="150" stroke="#00f2fe" stroke-width="2" class="glow">
+  <line x1="60" y1="100" x2="60" y2="150" stroke="#06b6d4" stroke-width="2" class="glow">
     <animate attributeName="y1" values="80; 420; 80" dur="4s" repeatCount="indefinite" />
     <animate attributeName="y2" values="130; 470; 130" dur="4s" repeatCount="indefinite" />
   </line>
@@ -48,8 +48,8 @@
   <!-- ================= VISA SECTION ================= -->
   <g transform="translate(60, 110)">
     <!-- Node -->
-    <circle cx="0" cy="0" r="6" fill="#0f172a" stroke="#00f2fe" stroke-width="2" class="glow" />
-    <circle cx="0" cy="0" r="2" fill="#00f2fe" />
+    <circle cx="0" cy="0" r="6" fill="#0f172a" stroke="#06b6d4" stroke-width="2" class="glow" />
+    <circle cx="0" cy="0" r="2" fill="#06b6d4" />
 
     <!-- Header -->
     <text x="30" y="5" class="company">Visa</text>
@@ -74,8 +74,8 @@
   <!-- ================= CRED SECTION ================= -->
   <g transform="translate(60, 280)">
     <!-- Node -->
-    <circle cx="0" cy="0" r="6" fill="#0f172a" stroke="#4facfe" stroke-width="2" class="glow" />
-    <circle cx="0" cy="0" r="2" fill="#4facfe" />
+    <circle cx="0" cy="0" r="6" fill="#0f172a" stroke="#2563eb" stroke-width="2" class="glow" />
+    <circle cx="0" cy="0" r="2" fill="#2563eb" />
 
     <!-- Header -->
     <text x="30" y="5" class="company">CRED</text>

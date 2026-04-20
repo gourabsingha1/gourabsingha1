@@ -2,16 +2,16 @@
   <defs>
     <!-- Dark cosmic background gradient -->
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0f172a" />
-      <stop offset="50%" stop-color="#1e293b" />
-      <stop offset="100%" stop-color="#0f172a" />
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="50%" stop-color="#f1f5f9" />
+      <stop offset="100%" stop-color="#ffffff" />
     </linearGradient>
 
     <!-- Glowing cyan gradient for active paths -->
     <linearGradient id="glowCyan" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00f2fe" stop-opacity="0" />
-      <stop offset="50%" stop-color="#4facfe" />
-      <stop offset="100%" stop-color="#00f2fe" stop-opacity="0" />
+      <stop offset="0%" stop-color="#06b6d4" stop-opacity="0" />
+      <stop offset="50%" stop-color="#2563eb" />
+      <stop offset="100%" stop-color="#06b6d4" stop-opacity="0" />
     </linearGradient>
 
     <!-- Glowing magenta gradient for secondary paths -->
@@ -90,7 +90,7 @@
     <!-- Orbiting Nodes -->
     <g>
       <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="6s" repeatCount="indefinite" />
-      <circle cx="45" cy="0" r="4" fill="#4facfe" filter="url(#blurGlow)" />
+      <circle cx="45" cy="0" r="4" fill="#2563eb" filter="url(#blurGlow)" />
     </g>
     <g>
       <animateTransform attributeName="transform" type="rotate" from="180" to="540" dur="8s" repeatCount="indefinite" />
