@@ -25,16 +25,19 @@
   <img src="./assets/card-experience.svg" width="100%" alt="Experience section"/>
   <br/><br/>
   <img src="./assets/section-stack.svg" width="100%" alt="Stack section"/>
-  <br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="48" height="48" alt="Java"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="48" height="48" alt="Spring Boot"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/apachekafka/white" width="48" height="48" alt="Kafka"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="48" height="48" alt="Docker"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" alt="Kubernetes"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/amazonwebservices/white" width="48" height="48" alt="AWS"/>
-  <br/><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" height="48" alt="React"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/nextdotjs/white" width="48" height="48" alt="Next.js"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
-  <br/><br/>
+</div>
+
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="48" height="48" alt="Java"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="48" height="48" alt="Spring Boot"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/apachekafka/white" width="48" height="48" alt="Kafka"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="48" height="48" alt="Docker"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" alt="Kubernetes"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" width="48" height="48" alt="AWS"/></p>
+
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" height="48" alt="React"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/nextdotjs/white" width="48" height="48" alt="Next.js"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="Python"/></p>
+
+<div align="center">
   <img src="./assets/section-cp.svg" width="100%" alt="CP section"/>
-  <br/><br/>
-  <a href="https://leetcode.com/gourabsingha1/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48" height="48" alt="LeetCode"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://codeforces.com/profile/gourabsingha1" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="48" height="48" alt="Codeforces"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.codechef.com/users/gourabsingha2" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/codechef/5B4638" width="48" height="48" alt="CodeChef"/></a>
-  <br/><br/>
-  <br/>
+</div>
+
+<p align="center"><a href="https://leetcode.com/gourabsingha1/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48" height="48" alt="LeetCode"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://codeforces.com/profile/gourabsingha1" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="48" height="48" alt="Codeforces"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.codechef.com/users/gourabsingha2" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/codechef/5B4638" width="48" height="48" alt="CodeChef"/></a></p>
+
+<div align="center">
   <img src="./assets/card-cp-text.svg" width="100%" alt="Open source contributions"/>
   <br/><br/>
   <picture>
