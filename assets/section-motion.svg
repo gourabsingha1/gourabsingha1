@@ -30,5 +30,5 @@
   <circle cx="220" cy="44.5" r="3" fill="#22c55e" filter="url(#glow)"/>
 
   <text x="34" y="50" font-family="'Inter', 'SF Pro Display', sans-serif" font-size="13" font-weight="600" fill="#64748b" letter-spacing="0.2em">SECTION 04</text>
-  <text x="240" y="51" font-family="'Outfit', 'Inter', 'SF Pro Display', sans-serif" font-size="28" font-weight="700" fill="#f8fafc" letter-spacing="-0.02em">Motion Block</text>
+  <text x="240" y="51" font-family="'Outfit', 'Inter', 'SF Pro Display', sans-serif" font-size="28" font-weight="700" fill="#f8fafc" letter-spacing="-0.02em">Contributions</text>
 </svg>
