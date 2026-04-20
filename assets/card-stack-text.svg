@@ -1,0 +1,24 @@
+<svg width="960" height="100" viewBox="0 0 960 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .tech { font-family: 'Inter', -apple-system, sans-serif; font-size: 14px; font-weight: 500; fill: #cbd5e1; letter-spacing: 1px; }
+      .core { fill: #00f2fe; font-weight: 700; }
+    </style>
+    <linearGradient id="bgGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#02040a" />
+      <stop offset="100%" stop-color="#080e1c" />
+    </linearGradient>
+  </defs>
+
+  <rect width="958" height="98" x="1" y="1" fill="url(#bgGlow)" rx="12" stroke="rgba(255,255,255,0.05)" stroke-width="1" />
+
+  <text x="480" y="45" text-anchor="middle" class="tech">
+    <tspan class="core">Java · Spring Boot · Kafka</tspan> · React · TypeScript · Next.js
+  </text>
+  <text x="480" y="75" text-anchor="middle" class="tech">
+    Docker · Kubernetes · AWS · MySQL · PostgreSQL · MongoDB · Python · Node.js
+  </text>
+  
+  <circle cx="200" cy="50" r="30" fill="#00f2fe" filter="blur(20px)" opacity="0.1" />
+  <circle cx="760" cy="50" r="30" fill="#4facfe" filter="blur(20px)" opacity="0.1" />
+</svg>

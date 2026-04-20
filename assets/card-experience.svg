@@ -1,0 +1,99 @@
+<svg width="960" height="480" viewBox="0 0 960 480" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .title { font-family: 'Inter', -apple-system, sans-serif; font-size: 24px; font-weight: 700; fill: #ffffff; }
+      .company { font-family: 'Inter', -apple-system, sans-serif; font-size: 18px; font-weight: 600; fill: #ffffff; }
+      .role { font-family: 'Inter', -apple-system, sans-serif; font-size: 14px; font-weight: 400; fill: #64748b; }
+      .bullet { font-family: 'Inter', -apple-system, sans-serif; font-size: 14px; font-weight: 400; fill: #cbd5e1; }
+      .glow { filter: drop-shadow(0 0 8px rgba(0, 242, 254, 0.6)); }
+    </style>
+    
+    <!-- Background gradient -->
+    <linearGradient id="bgGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#02040a" />
+      <stop offset="100%" stop-color="#080e1c" />
+    </linearGradient>
+
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#334155" />
+      <stop offset="50%" stop-color="#00f2fe" />
+      <stop offset="100%" stop-color="#334155" />
+    </linearGradient>
+  </defs>
+
+  <!-- Card Background -->
+  <rect width="958" height="478" x="1" y="1" fill="url(#bgGlow)" rx="12" stroke="rgba(255,255,255,0.05)" stroke-width="1" />
+  
+  <!-- Subtle top highlight line -->
+  <rect width="960" height="1" x="0" y="0" fill="url(#lineGrad)" opacity="0.3" />
+
+  <!-- Section Title -->
+  <g transform="translate(40, 40)">
+    <!-- Animated pulsing dot next to title -->
+    <circle cx="6" cy="-6" r="4" fill="#00f2fe" class="glow">
+      <animate attributeName="opacity" values="0.4; 1; 0.4" dur="3s" repeatCount="indefinite" />
+    </circle>
+    <text x="24" y="0" class="title" letter-spacing="1">Experience</text>
+  </g>
+
+  <!-- Timeline Base Line -->
+  <line x1="60" y1="100" x2="60" y2="420" stroke="#1e293b" stroke-width="2" />
+  
+  <!-- Animated Timeline Pulse -->
+  <line x1="60" y1="100" x2="60" y2="150" stroke="#00f2fe" stroke-width="2" class="glow">
+    <animate attributeName="y1" values="80; 420; 80" dur="4s" repeatCount="indefinite" />
+    <animate attributeName="y2" values="130; 470; 130" dur="4s" repeatCount="indefinite" />
+  </line>
+
+  <!-- ================= VISA SECTION ================= -->
+  <g transform="translate(60, 110)">
+    <!-- Node -->
+    <circle cx="0" cy="0" r="6" fill="#02040a" stroke="#00f2fe" stroke-width="2" class="glow" />
+    <circle cx="0" cy="0" r="2" fill="#00f2fe" />
+
+    <!-- Header -->
+    <text x="30" y="5" class="company">Visa</text>
+    <text x="75" y="4" class="role">— Software Engineer · Bangalore · Present</text>
+
+    <!-- Bullets -->
+    <g transform="translate(30, 35)">
+      <circle cx="0" cy="-4" r="2" fill="#475569" />
+      <text x="12" y="0" class="bullet">Event-driven auth and settlement flows with Kafka and Spring Boot</text>
+      
+      <circle cx="0" cy="26" r="2" fill="#475569" />
+      <text x="12" y="30" class="bullet">Circuit breakers, retries, DLQ strategy, and deduplication-safe processing</text>
+      
+      <circle cx="0" cy="56" r="2" fill="#475569" />
+      <text x="12" y="60" class="bullet">Reconciliation tooling with React, Java, and MySQL for faster issue isolation</text>
+      
+      <circle cx="0" cy="86" r="2" fill="#475569" />
+      <text x="12" y="90" class="bullet">Accessibility improvements aligned with WCAG in key product journeys</text>
+    </g>
+  </g>
+
+  <!-- ================= CRED SECTION ================= -->
+  <g transform="translate(60, 280)">
+    <!-- Node -->
+    <circle cx="0" cy="0" r="6" fill="#02040a" stroke="#4facfe" stroke-width="2" class="glow" />
+    <circle cx="0" cy="0" r="2" fill="#4facfe" />
+
+    <!-- Header -->
+    <text x="30" y="5" class="company">CRED</text>
+    <text x="85" y="4" class="role">— Backend Engineer Intern · Bangalore · Jan 2025 – Jun 2025</text>
+
+    <!-- Bullets -->
+    <g transform="translate(30, 35)">
+      <circle cx="0" cy="-4" r="2" fill="#475569" />
+      <text x="12" y="0" class="bullet">Centralized metrics publishing library to reduce instrumentation effort</text>
+      
+      <circle cx="0" cy="26" r="2" fill="#475569" />
+      <text x="12" y="30" class="bullet">Runtime validation &amp; DB constraints to reduce erroneous state transitions</text>
+      
+      <circle cx="0" cy="56" r="2" fill="#475569" />
+      <text x="12" y="60" class="bullet">Automated financial correction pipelines for interest recalculation</text>
+      
+      <circle cx="0" cy="86" r="2" fill="#475569" />
+      <text x="12" y="90" class="bullet">AML-compliant payment workflow updates across major payment rails</text>
+    </g>
+  </g>
+</svg>
