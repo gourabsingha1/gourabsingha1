@@ -7,7 +7,7 @@
 
 <p align="center">
   <br/>
-  <a href="https://portfolio-one-kappa-34.vercel.app/" target="_blank" rel="noopener noreferrer"><strong>Portfolio</strong></a>
+  <a href="https://portfolio-weld-seven-xh657n44zn.vercel.app/" target="_blank" rel="noopener noreferrer"><strong>Portfolio</strong></a>
   &nbsp;&nbsp;✦&nbsp;&nbsp;
   <a href="https://drive.google.com/file/d/19Swe4AwPU7w7m1_vktRY_tho8P2VsaXI/view?usp=sharing" target="_blank" rel="noopener noreferrer"><strong>Resume</strong></a>
   &nbsp;&nbsp;✦&nbsp;&nbsp;
