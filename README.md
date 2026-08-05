@@ -1,13 +1,14 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero.svg?v=2">
-    <img src="./assets/hero-light.svg?v=2" width="100%" alt="Gourab Singha hero"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gourabsingha1/gourabsingha1/main/assets/hero.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gourabsingha1/gourabsingha1/main/assets/hero-light.svg">
+    <img src="https://raw.githubusercontent.com/gourabsingha1/gourabsingha1/main/assets/hero-light.svg" width="100%" alt="Gourab Singha hero"/>
   </picture>
 </div>
 
 <p align="center">
   <br/>
-  <a href="https://portfolio-weld-seven-xh657n44zn.vercel.app/" target="_blank" rel="noopener noreferrer"><strong>Portfolio</strong></a>
+  <a href="https://portfolio-one-kappa-34.vercel.app/" target="_blank" rel="noopener noreferrer"><strong>Portfolio</strong></a>
   &nbsp;&nbsp;✦&nbsp;&nbsp;
   <a href="https://drive.google.com/file/d/19Swe4AwPU7w7m1_vktRY_tho8P2VsaXI/view?usp=sharing" target="_blank" rel="noopener noreferrer"><strong>Resume</strong></a>
   &nbsp;&nbsp;✦&nbsp;&nbsp;
@@ -22,23 +23,27 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/motion-abstract.svg">
-    <img src="./assets/motion-abstract-light.svg" width="100%" alt="System Motion Graphic"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gourabsingha1/gourabsingha1/main/assets/motion-abstract.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gourabsingha1/gourabsingha1/main/assets/motion-abstract-light.svg">
+    <img src="https://raw.githubusercontent.com/gourabsingha1/gourabsingha1/main/assets/motion-abstract-light.svg" width="100%" alt="System Motion Graphic"/>
   </picture>
   <br/><br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/card-about.svg">
-    <img src="./assets/card-about-light.svg" width="100%" alt="About section"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gourabsingha1/gourabsingha1/main/assets/card-about.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gourabsingha1/gourabsingha1/main/assets/card-about-light.svg">
+    <img src="https://raw.githubusercontent.com/gourabsingha1/gourabsingha1/main/assets/card-about-light.svg" width="100%" alt="About section"/>
   </picture>
   <br/><br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/card-experience.svg?v=2">
-    <img src="./assets/card-experience-light.svg?v=2" width="100%" alt="Experience section"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gourabsingha1/gourabsingha1/main/assets/card-experience.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gourabsingha1/gourabsingha1/main/assets/card-experience-light.svg">
+    <img src="https://raw.githubusercontent.com/gourabsingha1/gourabsingha1/main/assets/card-experience-light.svg" width="100%" alt="Experience section"/>
   </picture>
   <br/><br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/section-stack.svg">
-    <img src="./assets/section-stack-light.svg" width="100%" alt="Stack section"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gourabsingha1/gourabsingha1/main/assets/section-stack.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gourabsingha1/gourabsingha1/main/assets/section-stack-light.svg">
+    <img src="https://raw.githubusercontent.com/gourabsingha1/gourabsingha1/main/assets/section-stack-light.svg" width="100%" alt="Stack section"/>
   </picture>
 </div>
 
@@ -68,8 +73,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/section-cp.svg">
-    <img src="./assets/section-cp-light.svg" width="100%" alt="CP section"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gourabsingha1/gourabsingha1/main/assets/section-cp.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gourabsingha1/gourabsingha1/main/assets/section-cp-light.svg">
+    <img src="https://raw.githubusercontent.com/gourabsingha1/gourabsingha1/main/assets/section-cp-light.svg" width="100%" alt="CP section"/>
   </picture>
 </div>
 
@@ -83,8 +89,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/card-cp-text.svg">
-    <img src="./assets/card-cp-text-light.svg" width="100%" alt="Open source contributions"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gourabsingha1/gourabsingha1/main/assets/card-cp-text.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gourabsingha1/gourabsingha1/main/assets/card-cp-text-light.svg">
+    <img src="https://raw.githubusercontent.com/gourabsingha1/gourabsingha1/main/assets/card-cp-text-light.svg" width="100%" alt="Open source contributions"/>
   </picture>
   <br/><br/>
   <picture>
