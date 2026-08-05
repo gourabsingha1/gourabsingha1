@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero.svg">
-    <img src="./assets/hero-light.svg" width="100%" alt="Gourab Singha hero"/>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero.svg?v=2">
+    <img src="./assets/hero-light.svg?v=2" width="100%" alt="Gourab Singha hero"/>
   </picture>
 </div>
 
@@ -32,8 +32,8 @@
   </picture>
   <br/><br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/card-experience.svg">
-    <img src="./assets/card-experience-light.svg" width="100%" alt="Experience section"/>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/card-experience.svg?v=2">
+    <img src="./assets/card-experience-light.svg?v=2" width="100%" alt="Experience section"/>
   </picture>
   <br/><br/>
   <picture>
