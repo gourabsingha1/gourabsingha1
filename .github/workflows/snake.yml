@@ -19,18 +19,21 @@ jobs:
         with:
           github_user_name: gourabsingha1
           outputs: |
-            github-contribution-grid-snake.svg?color_snake=#22d3ee&color_dots=#111827,#0c3547,#155e75,#0891b2,#22d3ee
-            github-contribution-grid-snake-dark.svg?color_snake=#22d3ee&color_dots=#111827,#0c3547,#155e75,#0891b2,#22d3ee
+            dist/github-contribution-grid-snake.svg?color_snake=#22d3ee&color_dots=#111827,#0c3547,#155e75,#0891b2,#22d3ee
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#22d3ee&color_dots=#111827,#0c3547,#155e75,#0891b2,#22d3ee
 
       # Post-process: inject neon glow + rounded cells
       - name: Style snake SVGs
         run: |
           GLOW_CSS='.c{rx:3px;ry:3px}.s{filter:drop-shadow(0 0 6px #22d3ee) drop-shadow(0 0 12px #0891b2)}.u{filter:drop-shadow(0 0 4px rgba(34,211,238,0.5))}'
-          for f in github-contribution-grid-snake.svg github-contribution-grid-snake-dark.svg; do
+          for f in dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg; do
             sed -i "s|</style>|${GLOW_CSS}</style>|" "$f"
           done
 
-      - uses: stefanzweifel/git-auto-commit-action@v5
+      - name: Deploy to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
-          commit_message: "chore: refresh contribution snake"
-          file_pattern: "github-contribution-grid-snake*.svg"
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
